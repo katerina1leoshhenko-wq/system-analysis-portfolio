@@ -1,42 +1,46 @@
 # System Analysis Portfolio
 
-Educational system analysis portfolio focused on document workflows, status logic, business rules, requirements, validations, JSON structures and audit log logic.
+Portfolio case studies focused on document workflows, requirements, status logic, business rules, validations, data entities, JSON examples and audit log logic.
 
-This repository contains portfolio case studies that demonstrate how business processes can be translated into system-level specifications.
+This repository demonstrates how business processes can be translated into structured system analysis documentation for digital workflow solutions.
 
-## Featured Cases
+## Featured Case
 
-### SA-01. Working Documentation Card in a Common Data Environment
+### SA Case 01: Working Documentation Card in a Common Data Environment
 
 This case describes a system-level model of a working documentation card in a Common Data Environment.
 
-The case includes:
+It demonstrates how a document approval workflow can be translated into:
 
-- user roles and access rights;
-- main user scenarios;
-- document lifecycle logic;
-- document statuses and signing statuses;
-- business rules;
-- functional requirements;
-- non-functional requirements;
-- acceptance criteria;
-- validations and error handling;
-- data model entities;
-- JSON examples;
-- audit log logic.
+* user roles and access rights;
+* document lifecycle and status logic;
+* signing statuses;
+* business rules and validations;
+* functional and non-functional requirements;
+* acceptance criteria;
+* data entities;
+* JSON examples;
+* error handling logic;
+* audit log logic.
 
-[Open SA-01 case](cases/SA-01-working-documentation-card/README.md)
+[Open SA Case 01](cases/SA-01-working-documentation-card/README.md)
 
-## Planned Cases
+## Skills Demonstrated
 
-### SA-02. Document Approval Notifications
+* business process translation into system-level documentation;
+* user roles and access rights analysis;
+* document lifecycle and status modeling;
+* business rules and validation logic;
+* functional and non-functional requirements;
+* acceptance criteria;
+* basic data entity description;
+* simple JSON examples in analytical documentation;
+* error handling logic;
+* audit log logic;
+* GitHub-based portfolio documentation.
 
-Planned case focused on notification events, recipients, triggers, templates and audit log entries.
+## Context
 
-### SA-03. Electronic Signature Integration
+This is a portfolio case study based on a realistic document workflow scenario. The materials are prepared to demonstrate analytical approach, documentation structure and system analysis logic.
 
-Planned case focused on integration with an external electronic signature service, signing statuses, request/response logic and error handling.
-
-## Notes
-
-These are educational portfolio cases. They do not describe real production systems and do not contain confidential data.
+The repository does not reproduce confidential, proprietary or production documentation.

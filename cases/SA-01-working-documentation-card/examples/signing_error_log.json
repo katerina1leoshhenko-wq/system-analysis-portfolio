@@ -1,0 +1,14 @@
+{
+  "audit_log_id": "LOG-7011",
+  "document_id": "DOC-1001",
+  "document_version_id": "DOCV-2002",
+  "actor_type": "external_service",
+  "user_id": null,
+  "action_type": "signing_error",
+  "previous_status": "sent_for_signing",
+  "new_status": "sent_for_signing",
+  "previous_signing_status": "in_progress",
+  "new_signing_status": "error",
+  "comment": "The signing service is temporarily unavailable",
+  "created_at": "2026-04-18T14:05:00Z"
+}

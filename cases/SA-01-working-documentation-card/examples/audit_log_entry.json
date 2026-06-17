@@ -1,0 +1,14 @@
+{
+  "audit_log_id": "LOG-7001",
+  "document_id": "DOC-1001",
+  "document_version_id": "DOCV-2001",
+  "actor_type": "user",
+  "user_id": "USER-203",
+  "action_type": "document_sent_for_review",
+  "previous_status": "uploaded",
+  "new_status": "sent_for_review",
+  "previous_signing_status": "not_started",
+  "new_signing_status": "not_started",
+  "comment": "The document was sent to the Technical Customer / Client Representative for review",
+  "created_at": "2026-04-15T10:45:00Z"
+}

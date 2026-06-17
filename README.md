@@ -1,58 +1,42 @@
 # System Analysis Portfolio
 
-Selected educational system analysis case studies focused on document workflows, data entities, status logic, business rules, validations, JSON structures, audit logs and integration scenarios.
+Educational system analysis portfolio focused on document workflows, status logic, business rules, requirements, validations, JSON structures and audit log logic.
 
-This repository is intended as a portfolio artifact for junior business/system analyst roles. It contains educational cases and does not describe real production systems or include confidential data.
+This repository contains portfolio case studies that demonstrate how business processes can be translated into system-level specifications.
 
 ## Featured Cases
 
-### SA Case 01: Working Documentation Card in a Common Data Environment
+### SA-01. Working Documentation Card in a Common Data Environment
 
-A system analysis case describing how a working documentation approval workflow can be translated into a system-level document card: roles, access rights, lifecycle statuses, business rules, functional and non-functional requirements, acceptance criteria, data entities, JSON examples, validations, error handling and audit log.
+This case describes a system-level model of a working documentation card in a Common Data Environment.
 
-[Open SA Case 01](cases/SA-01-working-documentation-card/README.md)
+The case includes:
 
-### SA Case 02: Document Approval Notifications
-
-Coming soon.
-
-Planned focus: event logic, notification triggers, user roles, message templates, audit log entries and acceptance criteria.
-
-### SA Case 03: Electronic Signature Integration
-
-Coming soon.
-
-Planned focus: integration scenario, request/response examples, signing statuses, error handling and sequence diagram.
-
-## Repository Structure
-
-```text
-system-analysis-portfolio/
-|
-├── README.md
-└── cases/
-    └── SA-01-working-documentation-card/
-        ├── README.md
-        └── examples/
-            ├── document_card_uploaded.json
-            ├── blocking_comment.json
-            ├── audit_log_entry.json
-            └── signing_error_log.json
-```
-
-## Skills Demonstrated
-
-- system entity description;
 - user roles and access rights;
-- document lifecycle and status logic;
+- main user scenarios;
+- document lifecycle logic;
+- document statuses and signing statuses;
 - business rules;
-- functional and non-functional requirements;
+- functional requirements;
+- non-functional requirements;
 - acceptance criteria;
-- data model / ERD thinking;
-- JSON examples;
 - validations and error handling;
+- data model entities;
+- JSON examples;
 - audit log logic.
+
+[Open SA-01 case](cases/SA-01-working-documentation-card/README.md)
+
+## Planned Cases
+
+### SA-02. Document Approval Notifications
+
+Planned case focused on notification events, recipients, triggers, templates and audit log entries.
+
+### SA-03. Electronic Signature Integration
+
+Planned case focused on integration with an external electronic signature service, signing statuses, request/response logic and error handling.
 
 ## Notes
 
-All cases are educational portfolio cases. They are based on realistic domain scenarios but do not represent confidential or production documentation.
+These are educational portfolio cases. They do not describe real production systems and do not contain confidential data.

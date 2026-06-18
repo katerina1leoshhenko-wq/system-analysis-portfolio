@@ -1,10 +1,10 @@
 # SA-01. Working Documentation Card in a Common Data Environment
 
-## Educational System Analysis Portfolio Case
+## Portfolio Case Study
 
 This case demonstrates how a working documentation approval process can be translated into a system-level description of a document card in a Common Data Environment: user roles, user scenarios, statuses, business rules, functional and non-functional requirements, acceptance criteria, data model, JSON examples, validations, error handling and audit log.
 
-This is an educational portfolio case. It does not describe a real production system, does not contain confidential data, and is intended to demonstrate system analysis skills.
+The case is based on a realistic document workflow scenario and is prepared to demonstrate analytical approach, documentation structure and system analysis logic. It does not reproduce confidential, proprietary or production documentation.
 
 ---
 
